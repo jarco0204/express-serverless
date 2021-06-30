@@ -1,2 +1,1 @@
-# express-serverless
-AWS lambda implementation of an express API using serverless.
+# Application based on skeleton-js-tooling 
